@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tobatt.github.io/insights/sitemap.xml
